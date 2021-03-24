@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\bin\Debug\3.Tasks.WindowsFormsApp.exe.config
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\bin\Debug\3.Tasks.WindowsFormsApp.exe
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\bin\Debug\3.Tasks.WindowsFormsApp.pdb
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\obj\Debug\3.Tasks.WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\obj\Debug\_3.Tasks.WindowsFormsApp.Form.resources
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\obj\Debug\_3.Tasks.WindowsFormsApp.Properties.Resources.resources
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\obj\Debug\3.Tasks.WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\obj\Debug\3.Tasks.WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\obj\Debug\3.Tasks.WindowsFormsApp.exe
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\3.Tasks.WindowsFormsApp\obj\Debug\3.Tasks.WindowsFormsApp.pdb

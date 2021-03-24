@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\1.Threads.WindowsFormsApp\bin\Debug\1.Threads.WindowsFormsApp.exe
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\1.Threads.WindowsFormsApp\bin\Debug\1.Threads.WindowsFormsApp.pdb
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\1.Threads.WindowsFormsApp\obj\Debug\_1.Threads.WindowsFormsApp.Form.resources
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\1.Threads.WindowsFormsApp\obj\Debug\_1.Threads.WindowsFormsApp.Properties.Resources.resources
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\1.Threads.WindowsFormsApp\obj\Debug\1.Threads.WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\1.Threads.WindowsFormsApp\obj\Debug\1.Threads.WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\1.Threads.WindowsFormsApp\obj\Debug\1.Threads.WindowsFormsApp.exe
+C:\Users\User\Desktop\Paralellism\ParalellismSolution\1.Threads.WindowsFormsApp\obj\Debug\1.Threads.WindowsFormsApp.pdb
